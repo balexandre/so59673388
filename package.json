@@ -1,9 +1,9 @@
 {
   "name": "so59673388",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "simple project to help a SO question",
   "scripts": {
+    "start": "node ./server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
